@@ -5,5 +5,5 @@ def contador_palavras (palavra):
         s = s [: -1]
     return
          
-palavra = input('Digite uma palavra:  ')
+palavra = input('Digite sua palavra:  ')
 contador_palavras (palavra)
